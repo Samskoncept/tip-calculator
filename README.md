@@ -1,5 +1,6 @@
 
 #  Tip Calculator with HTML, CSS & JAVASCRIPT
+https://samskoncept.github.io/tip-calculator/
 
 
 
